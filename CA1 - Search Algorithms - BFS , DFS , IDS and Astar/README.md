@@ -18,8 +18,8 @@ These heuristics were defined as follows:
 * h2: the total score of the seeds left in the table.
 
 ## Results:
-An analytic comparison between these algorithms is included in the report file in Persian. The table below, which is the result of running the algorithms on test2.txt input file, can be informative enough to compare these algorithms and gain some insights about them.
+An analytic comparison between these algorithms is included in the report file in Persian. The table below, which is the result of running the algorithms on test1.txt input file, can be informative enough to compare these algorithms and gain some insights about them.
 
-![alt text](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Search/table.JPG)
+![alt text]([https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Search/table.JPG](https://github.com/atiarmn/Artificial-Intelligence-Course-Projects/blob/master/CA1%20-%20Search%20Algorithms%20-%20BFS%20%2C%20DFS%20%2C%20IDS%20and%20Astar/result.png)
 
 For example, the time-inefficiency of the IDS algorithm is evident due to the huge number of visited states. More importantly, it can be seen that Weighted A-star algorithm is not admissible since it has failed to find the shortest path, although it enhances the execution time significantly.
